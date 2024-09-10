@@ -6,7 +6,7 @@ and their code: https://github.com/tomramzp/Resource.
 First, familiarizing yourself with the aforementioned literature will facilitate your comprehension of this code.  The software requirements and main scripts are identical.
 
 The following code allows replicating the results from the publication:
-[https://arxiv.org/abs/2407.08981](https://www.sciopen.com/article/10.26599/TST.2024.9010161)
+https://www.sciopen.com/article/10.26599/TST.2024.9010161
 
 首先非常感谢开源代码的作者们，没有他们也没有今天这篇文章。
 
